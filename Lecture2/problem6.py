@@ -1,0 +1,6 @@
+user =input("put User:")
+print("# of a: %s"%user.count("a"))
+print("# of b: %s"%user.count("b"))
+print("# of c: %s"%user.count("c"))
+print("# of d: %s"%user.count("d"))
+print("# of e: %s"%user.count("e"))
